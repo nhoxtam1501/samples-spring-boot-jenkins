@@ -11,6 +11,7 @@ class SamplesSpringJenkinsApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("Test case executing....");
+        System.out.println("🤔🤔");
     }
 
 //    @Test
